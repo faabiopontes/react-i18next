@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Following tutorial for `react-i18n` at [i18n with Next.js 13 and app directory](https://locize.com/blog/next-13-app-dir-i18n/).
 
 ## Getting Started
 
